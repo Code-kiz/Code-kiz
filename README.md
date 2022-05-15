@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 ### 🌱 I'm learning Python, C/C++
-### 🇷🇺 I live in Russia
+### 🏡 I live in Russia
 ### ⚡ Fun fact - I started coding in my first year at the university
 ### 📫 You can write me an email - artem00260026@gmail.com
 <!--
